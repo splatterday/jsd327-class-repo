@@ -17,7 +17,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+The project is a Quit Smoking app which has two functional sides.
+One side tracks the date of your last smoke, then presents that data based on time since/time until certain milestones (12 hours, 24 hours, 48 hours etc.)
 
 ## Wireframes
 
@@ -76,6 +77,8 @@ function reverse(string) {
 
 ## jQuery Discoveries
  Use this section to list some, but not all, of the jQuery methods and\or functionality discovered while working on this project.
+ addClass
+ removeClass
 
 ## Change Log
  Use this section to document what changes were made and the reasoning behind those changes.  
