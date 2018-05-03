@@ -8,7 +8,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|May 1st| Project Description | Incomplete
+|May 1st| Project Description | Bingo
 |May 8th| Wireframes / Priority Matrix / Functional Components | Incomplete
 |May 15th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | Incomplete
 |May 22nd| Minimal Viable Product | Incomplete
@@ -22,7 +22,8 @@ One side tracks the date of your last smoke, then presents that data based on ti
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+![alt text](http://res.cloudinary.com/splatterday/image/upload/a_-90/v1525313688/20180502_220547.jpg)
+![alt text](http://res.cloudinary.com/splatterday/image/upload/a_-90/v1525313657/20180502_220557.jpg)
 
 ## Priority Matrix
 
@@ -34,14 +35,15 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP 
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Save Quit Date/Time
+- Render visual progress through first 4 days
+- Render visual progress 4+ days
+- Show quit progress when milestones are pressed.
+- Breathing game
 
 #### PostMVP 
 
-- Add user auth
+- Improve graphics
 
 ## Functional Components
 
@@ -51,9 +53,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Log Quit Date | H | 3hrs| Xhrs | Xhrs |
+| First 4 Days Visualizer | H | 20hrs| XXhrs | XXhrs |
+| 4+ Days Visualizer | H | 15hrs| XXhrs | XXhrs |
+| Breathing Game | H | 20hrs| 2hrs | XXhrs |
+| Total | H | 58hrs| 2hrs | XXhrs |
 
 ## Helper Functions
 Helper functions should be generic enought that they can be reused in other applications. Use this section to document all helper functions that fall into this category.
